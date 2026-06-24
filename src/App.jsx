@@ -1,8 +1,8 @@
 import { useState, useEffect, useRef } from "react";
 import emailjs from "@emailjs/browser";
 
-const WHATSAPP_NUMBER = "919999999999";
-const PHONE_NUMBER = "+91 99999 99999";
+const WHATSAPP_NUMBER = "919813312768";
+const PHONE_NUMBER = "+919813312768";
 const EMAIL = "hello@orvium.in";
 
 // ─── EmailJS Config ────────────────────────────────────────────────
