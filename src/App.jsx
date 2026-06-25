@@ -14,10 +14,10 @@ const EMAIL = "hello@orvium.in";
 //    Copy each Template ID
 // 4. Go to Account → API Keys → copy your Public Key
 // Paste everything below:
-const EMAILJS_SERVICE_ID        = "YOUR_SERVICE_ID";       // e.g. "service_abc123"
-const EMAILJS_TEMPLATE_ID       = "YOUR_TEMPLATE_ID";       // contact form template
-const EMAILJS_ZOOM_TEMPLATE_ID  = "YOUR_ZOOM_TEMPLATE_ID";  // zoom booking template
-const EMAILJS_PUBLIC_KEY        = "YOUR_PUBLIC_KEY";        // e.g. "aBcDeFgHiJkLmNoPq"
+const EMAILJS_SERVICE_ID        = "service_jnh2cse";       // e.g. "service_abc123"
+const EMAILJS_TEMPLATE_ID       = "template_p53xbdq";       // contact form template
+const EMAILJS_ZOOM_TEMPLATE_ID  = "template_nhs539k";  // zoom booking template
+const EMAILJS_PUBLIC_KEY        = "KqSgXmCukgJv6gCAz";        // e.g. "aBcDeFgHiJkLmNoPq"
 // ──────────────────────────────────────────────────────────────────
 
 // ─── Brand Colors ──────────────────────────────────────────────────
