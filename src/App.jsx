@@ -610,7 +610,7 @@ function WhySection() {
 function ServicesSection() {
   const [ref, inView] = useInView();
   const plans = [
-    { name: "Starter", price: "₹999", tag: "Most Popular",
+    { name: "Starter", price: "₹1999", tag: "Most Popular",
       features: ["One-page website", "WhatsApp button", "Mobile responsive", "Free SSL", "Deployment"],
       color: INDIGO, highlight: false },
     { name: "Business", price: "₹4,999", tag: "Best Value",
